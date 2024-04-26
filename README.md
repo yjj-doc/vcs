@@ -31,7 +31,7 @@ Version Control System
   - Perforce
 - 3세대 : [Distributed VCS](#distributed-vcs)
   - Monotone  
-  - Git
+  - [Git](./git)
   - Mercurial
   - Bazaar
   - Darcs
@@ -114,7 +114,6 @@ svn --version
 : peer-to-peer 모델 기반 관리     
 : 파일을 개별 클라이언트가 사본으로 관리하고 변경 사항을 통합할 준비가 되면 중앙에 요청해 병합      
 : 파일을 로컬에서 관리하므로 서버 문제와 네트워크 연결 문제 보완   
-
 
 **종류**
 - Monotone  
